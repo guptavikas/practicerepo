@@ -1,7 +1,13 @@
-clone command :- 
+1. Clone Command 									:- 		git clone https://github.com/guptavikas/practicerepo.git 
 
-git clone https://github.com/guptavikas/practicerepo.git 
+2. Mapping a local folder with git repository 		:- 		git remote add origin  https://github.com/guptavikas/practicerepo.git
 
-mapping a local folder with git repository :- 
+3. Adding the changed or new file to Git Repo		:-		git add <filename> or *
 
-git remote add origin  https://github.com/guptavikas/practicerepo.git
+4. Commit the Added Files to Git					:-		git commit -m "Commit Message"
+
+5. To send the commited changes to remote repo		:-		git push origin https://github.com/guptavikas/practicerepo.git
+
+6. Verify origin and upstream						:-		git remote -v
+
+7. 
