@@ -1,0 +1,7 @@
+clone command :- 
+
+git clone https://github.com/guptavikas/practicerepo.git 
+
+mapping a local folder with git repository :- 
+
+git remote add origin  https://github.com/guptavikas/practicerepo.git
